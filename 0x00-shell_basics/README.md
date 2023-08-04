@@ -1,1 +1,1 @@
-this script display the content list of the current directory
+this script to change the directory to home directory
