@@ -1,1 +1,1 @@
-this script Moves the file betty from /tmp/ to /tmp/my_first_directory
+this script removes the file betty 
