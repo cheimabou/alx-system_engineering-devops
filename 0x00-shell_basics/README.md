@@ -1,1 +1,1 @@
-this script prints the type of the file
+this script create a symbolic link
