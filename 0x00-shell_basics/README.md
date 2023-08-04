@@ -1,1 +1,1 @@
-this script removes the file betty 
+this script deletes a directory
