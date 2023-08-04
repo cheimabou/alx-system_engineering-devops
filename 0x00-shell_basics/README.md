@@ -1,1 +1,1 @@
-this script prints the current working directory
+this script display the content list of the current directory
