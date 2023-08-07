@@ -1,1 +1,1 @@
-this script to create a file with a weird name full of special characters 
+this script writes into a file a result of ls -la command 
