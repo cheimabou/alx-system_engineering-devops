@@ -1,1 +1,1 @@
-this script prints the last 10 lines if a file 
+this script prints the first 10 lines of a file
