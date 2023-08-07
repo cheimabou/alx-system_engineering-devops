@@ -1,1 +1,1 @@
-this script prints a confused smiley face
+this script displays the content of a file 
