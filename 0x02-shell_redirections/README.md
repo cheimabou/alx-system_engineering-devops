@@ -1,1 +1,1 @@
-this script diplays hello world 
+this script prints a confused smiley face
