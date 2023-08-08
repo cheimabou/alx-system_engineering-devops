@@ -1,1 +1,1 @@
-this script prints addition of two numbers 
+this script prints the result of division of two numbers
