@@ -1,1 +1,1 @@
-this script creates a new variable
+this script add a directory to the PATH
