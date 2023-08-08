@@ -1,1 +1,1 @@
-this script prints the global variables
+this script creates a new variable
