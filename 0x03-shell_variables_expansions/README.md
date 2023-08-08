@@ -1,1 +1,1 @@
-this script add a directory to the PATH
+this script  lists all local variables and environment variables, and functions
