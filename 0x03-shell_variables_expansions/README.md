@@ -1,1 +1,1 @@
-this script prints the result of division of two numbers
+this script prints the result of the exponent of two numbers
