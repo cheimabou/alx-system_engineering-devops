@@ -1,1 +1,1 @@
-this script creates an alias 
+this script prints hello 'the current user name'
