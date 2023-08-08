@@ -1,1 +1,1 @@
-this script prints the file and duplicates the last line
+this script counts the directories and sub directories in the current directory
