@@ -1,2 +1,2 @@
 #!/bin/bash
-echo iacta | tail -n 1 iacta > iacta
+cat iacta | tee >( tail -n 1 iacta >> iacta) > iacta
