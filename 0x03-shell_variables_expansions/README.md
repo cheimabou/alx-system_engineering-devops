@@ -1,1 +1,1 @@
-this script convert a binary number to a decimal number
+this script prints a number with two decimal places
