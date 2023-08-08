@@ -1,1 +1,1 @@
-this script prints the result of the exponent of two numbers
+this script convert a binary number to a decimal number
